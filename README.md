@@ -1,4 +1,4 @@
 # firstrepo
 just exploring and learnig gitub.
 <br>
-Author: Prafull kale
+Author: Prafull kale(my name)
